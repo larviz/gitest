@@ -1,2 +1,2 @@
 <?php
-echo "this is ABC-123 commit 3"
+echo "this is the main fail in the third commit";
