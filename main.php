@@ -1,2 +1,2 @@
 <?php
-echo "this is the main faile";
+echo "this is the main fail in the second commit";
